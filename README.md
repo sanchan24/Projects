@@ -1,2 +1,2 @@
 # Projects
-This repository consistes of the work project done by me
+This repository consists of the work project done by me
